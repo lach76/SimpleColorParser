@@ -1,0 +1,3 @@
+[FG.RED][BG.BLUE]asdjaklsdjlaskdjlaskd[DEF]
+[FG.BLUE][BG.GRAY] alksjdlasdjkj qwekljqwklej [DEF]
+
